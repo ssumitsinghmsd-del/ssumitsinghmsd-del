@@ -109,9 +109,16 @@ Statistics
 Machine Learning
    ↓
 Real-World Projects
+```
 
 ## 🐍 My GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ssumitsinghmsd-del/ssumitsinghmsd-del/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+---
+
+## 🎯 Career Goal
+
+I am aiming to build my career in Data Analytics and gradually move towards Data Science.
