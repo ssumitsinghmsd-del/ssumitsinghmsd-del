@@ -2,7 +2,7 @@
 
 ### MCA Student | Python Developer | Data & Business Analytics Enthusiast
 
-🎓 MCA Student at **Babu Banarasi Das University**  
+🎓 MCA-DS&AI Student at **Babu Banarasi Das University**  
 💻 Passionate about **Python, SQL, Data Analytics & Full Stack Development**  
 📊 Interested in **Power BI, Advanced Excel & Data Visualization**  
 🚀 Currently learning, building projects and preparing for a career in technology.
