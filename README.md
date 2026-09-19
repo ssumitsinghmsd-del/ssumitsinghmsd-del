@@ -1,52 +1,52 @@
- Hi, I'm Sumit Singh 👋
+# Hi, I'm Sumit Singh 👋
 
-### MCA Student | Python Developer | Data & Business Analytics Enthusiast
+### MCA-DS&AI Student | Python Developer | Data Analytics Enthusiast
 
-🎓 MCA-DS&AI Student at **Babu Banarasi Das University**  
-💻 Passionate about **Python, SQL, Data Analytics & Full Stack Development**  
-📊 Interested in **Power BI, Advanced Excel & Data Visualization**  
-🚀 Currently learning, building projects and preparing for a career in technology.
+🎓 Pursuing **MCA in Data Science & AI** at **Babu Banarasi Das University, Lucknow**  
+🐍 Learning and building with **Python**  
+🗄️ Working with **SQL & MySQL**  
+📊 Exploring **Power BI, Excel & Data Visualization**  
+🚀 Building practical projects for a career in **Data Analytics & Data Science**
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **MCA** at Babu Banarasi Das University
-- 📚 Currently in **2nd Semester**
-- 💼 Completed/Currently pursuing a **Full Stack Development Internship**
-- 🐍 Working with **Python**
-- 🗄️ Learning and working with **SQL**
-- 📊 Skilled in **Power BI & Advanced Excel**
-- 🌱 Continuously improving my development and problem-solving skills
-- 🚀 Interested in building practical and real-world applications
+- 🎓 Pursuing **MCA – Data Science & AI**
+- 🐍 Practising **Python & Object-Oriented Programming**
+- 🗄️ Learning **SQL & MySQL**
+- 📊 Working with **Power BI & Excel**
+- 📈 Interested in **Data Analytics & Business Intelligence**
+- 💡 Interested in using **AI/ML to solve real-world problems**
+- 🔨 Currently building projects to strengthen my portfolio
+- 🎯 Career Goal: **Data Analyst → Data Scientist**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Development
+### 🐍 Programming & Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
-### Database
+### 🗄️ Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 <p align="left">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -54,54 +54,42 @@
 
 ---
 
-## 💼 Internship
+## 📊 Data & Analytics
 
-### Full Stack Development Intern
+I am interested in transforming raw data into meaningful insights using:
 
-💻 **Role:** Full Stack Development Intern
-
-During my internship, I worked on web development concepts and gained practical experience in:
-
-- Frontend Development
-- Backend Development
-- Database Integration
-- REST APIs
-- Git & GitHub
-- Building web applications
+- 🐍 **Python**
+- 🗄️ **SQL**
+- 📊 **Power BI**
+- 📈 **Advanced Excel**
+- 📉 **Data Visualization**
+- 🔍 **Data Analysis**
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🚧 Projects will be added soon.
+### 📊 AI-Powered Student Performance & Dropout Prediction
 
-### 📌 Project 1
-**Coming Soon**
+An AI/ML-based project designed to identify students who may be at risk of poor academic performance or dropout at an early stage.
 
-A practical project showcasing my development and problem-solving skills.
-
-### 📌 Project 2
-**Coming Soon**
-
-A data-driven / development project using modern technologies.
-
-### 📌 Project 3
-**Coming Soon**
-
-More projects will be added as I continue building and learning.
+**Tech:** Python • Pandas • Scikit-learn • SQL • Power BI • Machine Learning
 
 ---
 
-## 📊 Data & Analytics
+### 📈 Sales & Business Analytics Dashboard
 
-I am interested in transforming raw data into meaningful insights using:
+A data analytics project that transforms raw business data into meaningful KPIs and interactive dashboards.
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Power BI
-- 📈 Advanced Excel
-- 📉 Data Visualization
-- 🔍 Data Analysis
+**Tech:** SQL • Excel • Power BI • Data Visualization
+
+---
+
+### 🤖 AI-Powered Data Analytics Project
+
+A practical analytics project combining **SQL, Python and AI** to automate data analysis and generate actionable business insights.
+
+**Tech:** Python • SQL • Pandas • AI • Power BI
 
 ---
 
@@ -116,12 +104,8 @@ Data Analysis
    ↓
 Power BI
    ↓
-Full Stack Development
+Statistics
+   ↓
+Machine Learning
    ↓
 Real-World Projects
-
-## 🐍 My GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ssumitsinghmsd-del/ssumitsinghmsd-del/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
