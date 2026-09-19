@@ -1,4 +1,4 @@
-# ssumitsinghmsd-delcollege# Hi, I'm Sumit Singh 👋
+ Hi, I'm Sumit Singh 👋
 
 ### MCA Student | Python Developer | Data & Business Analytics Enthusiast
 
